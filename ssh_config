@@ -1,0 +1,5 @@
+Host ian-bcs
+  HostName IP
+  User ian
+  Port 22
+  IdentityFile C:\Users\ichien\.ssh\id_ed25519
