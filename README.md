@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ian</h1>
-<h3 align="center">An OpenBMC Engineer</h3>
+<h3 align="center">An OpenBMC Developer </h3>
 
 🔭 I’m currently working on **OpenBMC project, Valorant-Discord-Bot**
 
