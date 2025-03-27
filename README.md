@@ -8,9 +8,9 @@
 ⚡ **Looking for inspiration for a side project !**
 
 
-Senior BMC Engineer with four years of experience in BMC system development, including BMC & Bridge IC functionalities and sensor-related features.  
-Skilled in firmware development, system integration, and debugging, with hands-on experience in Meta OpenBMC and LF-OpenBMC for Meta.  
-Proficient in C, C++, Python, Shell Script, and Yocto, delivering optimized and scalable BMC solutions.  
+Senior BMC Developer with four years of experience in BMC system development, including BMC & Bridge IC functionalities.
+Skilled in firmware development, system integration, and debugging, with hands-on experience in Meta OpenBMC and upstream OpenBMC for Meta and Lenovo.
+Proficient in C, C++, Python, Shell Script, and Yocto, delivering optimized and scalable OpenBMC solutions.  
 
 
 <h4 align="left">Languages and Tools:</h4>
