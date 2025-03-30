@@ -30,8 +30,8 @@ Delivering high-performance, scalable, and maintainable OpenBMC firmware solutio
 
 ### 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ian-I-Chien&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ian-I-Chien&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-I-Chien&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-I-Chien&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ian-I-Chien&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ian-I-Chien&theme=tokyonight)
