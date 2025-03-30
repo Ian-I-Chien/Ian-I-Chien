@@ -9,7 +9,7 @@
 Experienced BMC developer with four years of expertise in BMC system development, including BMC & Bridge IC functionalities.
 
 🔭 I’m currently working on **OpenBMC project**, **Valorant-Discord-Bot**
-🌱 **Programming Languages**: C, C++, Python, Shell Script
+
 ⚡ **Looking for inspiration for a side project!**
 
 
