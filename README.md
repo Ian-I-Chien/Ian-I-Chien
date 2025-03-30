@@ -30,27 +30,8 @@ Delivering high-performance, scalable, and maintainable OpenBMC firmware solutio
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ian-I-Chien&layout=donut&langs_count=5&theme=dracula&locale=en&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver">
-        <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ian-I-Chien&layout=donut&langs_count=5&theme=default&locale=en&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver" alt="Top Languages" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ian-I-Chien&show_icons=true&theme=dracula&locale=en&include_all_commits=true">
-        <img height="300" src="https://github-readme-stats.vercel.app/api?username=Ian-I-Chien&show_icons=true&theme=default&locale=en&include_all_commits=true" alt="GitHub Stats" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ian-I-Chien&theme=dracula&hide_border=false&locale=en" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ian-I-Chien&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ian-I-Chien&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-I-Chien&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-I-Chien&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ian-I-Chien&theme=tokyonight)
