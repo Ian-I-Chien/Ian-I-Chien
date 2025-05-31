@@ -8,19 +8,15 @@
 ## About Me
 Experienced BMC developer with four years of expertise in BMC system development, including BMC & Bridge IC functionalities.
 
-🔭 I’m currently working on **OpenBMC project**, **Valorant-Discord-Bot**
+🔭 I’m currently working on **A Reverse Engineering Project**, **OpenBMC**, **Human-Fall-Detector**, **Valorant-Discord-Bot**
 
-⚡ **Looking for inspiration for a side project!**
 
 
 ## Skills & Expertise
 - **Firmware Development**: Proficient in developing and optimizing OpenBMC solutions.
-- **System Integration & Debugging**: Hands-on experience with Meta OpenBMC and upstream OpenBMC for Meta and Lenovo.
+- **System Integration & Debugging**: Hands-on experience with Meta OpenBMC and Linux-Foundation OpenBMC for Meta and Lenovo.
 - **Programming Languages**: C, C++, Python, Shell Script, Yocto.
 
-## Professional Focus
-
-Delivering high-performance, scalable, and maintainable OpenBMC firmware solutions.
 
 ## 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ian-I-Chien&theme=dark)
