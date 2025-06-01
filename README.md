@@ -6,7 +6,7 @@
 </p>
 
 ## About Me
-Experienced BMC developer with four years of expertise in BMC system development, including BMC & Bridge IC functionalities.
+Experienced BMC developer with four years of expertise in Meta-OpenBMC and Linux-Foundation OpenBMC development, including BMC & Bridge IC functionalities.
 
 🔭 I’m currently working on **A Reverse Engineering Project**, **OpenBMC**, **Human-Fall-Detector**, **Valorant-Discord-Bot**
 
