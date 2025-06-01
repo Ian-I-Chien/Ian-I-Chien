@@ -6,15 +6,15 @@
 </p>
 
 ## About Me
-Experienced BMC developer with four years of expertise in Meta (facebook) OpenBMC and Linux-Foundation OpenBMC development, including BMC & Bridge IC functionalities.
+Experienced BMC developer with four years of expertise in Meta (Facebook) OpenBMC and Linux-Foundation OpenBMC development, including BMC & Bridge IC functionalities.
 
-🔭 I’m currently working on **A Reverse Engineering Project**, **OpenBMC**, **Human-Fall-Detector**, **Valorant-Discord-Bot**
+I’m currently working on **A Reverse Engineering Project**, **OpenBMC**, **Human-Fall-Detector**, **Valorant-Discord-Bot**
 
 
 
 ## Skills & Expertise
 - **Firmware Development**: Proficient in developing and optimizing OpenBMC solutions.
-- **System Integration & Debugging**: Hands-on experience with Meta (facebook) OpenBMC and Linux-Foundation OpenBMC for Meta and Lenovo.
+- **System Integration & Debugging**: Hands-on experience with Meta (Facebook) OpenBMC and Linux-Foundation OpenBMC for Meta and Lenovo.
 - **Programming Languages**: C, C++, Python, Shell Script, Yocto.
 
 
