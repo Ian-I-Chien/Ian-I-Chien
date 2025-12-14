@@ -6,6 +6,8 @@
 </p>
 
 ## About Me
+> Time did the rest
+
 Experienced BMC developer with four years of expertise in Meta (Facebook) OpenBMC and Linux-Foundation OpenBMC development, including BMC & Bridge IC functionalities.
 
 I’m currently working on **A Reverse Engineering Project**, **OpenBMC**, **Human-Fall-Detector**, **Valorant-Discord-Bot**
