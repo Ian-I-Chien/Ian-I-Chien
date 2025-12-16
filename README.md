@@ -5,6 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=Ian-I-Chien&label=Profile+views&color=0e75b6&style=flat" alt="Ian-I-Chien" />
 </p>
 
+
+## Contributors Wanted
+
+[Looking for contributors for a Valorant Discord bot project.](https://github.com/Ian-I-Chien/Valorant-Tracker)
+
+
 ## About Me
 > Time did the rest
 
